@@ -1,7 +1,7 @@
 from flask import Flask, request, render_template
 import sklearn
-import jsonify
-import requests
+#import jsonify
+#import requests
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
